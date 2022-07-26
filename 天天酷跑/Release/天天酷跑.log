@@ -1,0 +1,161 @@
+﻿  源.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(34,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(145,31): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(145,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(147,31): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(147,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(156,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(156,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(158,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(158,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(160,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(160,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(165,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(165,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(167,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(167,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(169,35): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“char [512]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(169,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(192,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(192,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(192,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\tools.h(192,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(55,52): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(55,52): message : 尝试匹配参数列表“(IMAGE *, const char [10], int, int)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(56,52): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(56,52): message : 尝试匹配参数列表“(IMAGE *, const char [10], int, int)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(57,53): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(57,53): message : 尝试匹配参数列表“(IMAGE *, const char [10], int, int)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(58,55): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(58,55): message : 尝试匹配参数列表“(IMAGE *, const char [10], int, int)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(59,56): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(59,56): message : 尝试匹配参数列表“(IMAGE *, const char [10], int, int)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(65,44): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(65,44): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(66,46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(66,46): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(73,44): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(73,44): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(74,46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(74,46): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(89,50): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [23]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(89,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(93,51): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(93,51): message : 尝试匹配参数列表“(IMAGE *, const char [15], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(99,56): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(99,56): message : 尝试匹配参数列表“(IMAGE *, const char [16], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(108,44): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(108,44): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(119,46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(119,46): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(130,40): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(130,40): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(140,41): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(140,41): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(147,46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(147,46): message : 尝试匹配参数列表“(IMAGE *, const char [12], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(153,48): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(153,48): message : 尝试匹配参数列表“(IMAGE *, const char [13], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(162,40): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(162,40): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(172,42): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(172,42): message : 尝试匹配参数列表“(IMAGE *, char [20], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(182,54): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(182,54): message : 尝试匹配参数列表“(IMAGE *, const char [16], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(183,54): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(183,54): message : 尝试匹配参数列表“(IMAGE *, const char [16], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(184,59): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(184,59): message : 尝试匹配参数列表“(IMAGE *, const char [17], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(185,59): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(185,59): message : 尝试匹配参数列表“(IMAGE *, const char [17], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(384,66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(465,56): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(465,56): message : 尝试匹配参数列表“(int, const char [13], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(467,43): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [16]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(467,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(468,97): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [20]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(468,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(473,51): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [23]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(473,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(477,4): warning C4551: 缺少参数列表的函数调用
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(503,44): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [17]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(503,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(505,58): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(505,58): message : 尝试匹配参数列表“(int, const char [12], int, int, bool)”时
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(507,43): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [16]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(507,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(508,102): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [23]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(508,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(513,51): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [23]”转换为“LPCWSTR”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(513,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(527,59): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(257,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\yb\OneDrive\桌面\小游戏\天天酷跑\源.cpp(527,59): message : 尝试匹配参数列表“(int, const char [14], int, int, bool)”时
